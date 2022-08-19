@@ -2,7 +2,7 @@
 <div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&pause=1000&color=0DDAF7&center=true&vCenter=true&width=500&lines=Hey%2C+I'am+Tarun;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
-
+  
 <img  src="keyboard.gif"  width="300px"  alt=gif  align="right">
 
 </div>
